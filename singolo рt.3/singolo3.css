@@ -567,12 +567,13 @@ footer {
     vertical-align: top;
     padding: 10px 30px;
     max-width: 400px;
-    border: 2px solid #666d89;
+    border: 2px solid #f2f2f2;
     border-radius: 5px;
     background: none;
     cursor: pointer;
     font-family: inherit;
-    color: #666d89;
+    /* color: #666d89; */
+    color: #f2f2f2;
     font-size: 18px;
     font-weight: 800;
     text-decoration: none;
@@ -582,7 +583,7 @@ footer {
 }
 
 .btn_big:hover {
-    color: #f2f2f2;
+    color: #ac4540;
     background-color: #d6564f;
-    border-color: #f2f2f2;
+    border-color: #ac4540;
 }
